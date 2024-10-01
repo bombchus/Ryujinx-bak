@@ -1,12 +1,12 @@
 
 <h1>
-    <img src="https://i.imgur.com/G6Mleco.png"> Ryujinx
+    <img src="https://i.ibb.co/80Q6176/G6Mleco.png"> Ryujinx
 </h1>
 
 <p align="center">
     <i>An Experimental Switch emulator written in C#</i><br />
     <br />
-    <img src="https://i.imgur.com/JDLmXJ6.png">
+    <img src="https://i.ibb.co/F4HFSwY/JDLmXJ6.png">
 </p>
 
 <h5 align="center">
