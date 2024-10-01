@@ -1,12 +1,6 @@
 
 <h1>
     <img src="https://i.imgur.com/G6Mleco.png"> Ryujinx
-    <a href="https://ci.appveyor.com/project/gdkchan/ryujinx?branch=master" target="_blank">
-        <img src="https://ci.appveyor.com/api/projects/status/ssg4jwu6ve3k594s/branch/master?svg=true">
-    </a>
-    <a href="https://discord.gg/N2FmfVc">
-        <img src="https://img.shields.io/discord/410208534861447168.svg">
-    </a>
 </h1>
 
 <p align="center">
@@ -34,8 +28,6 @@ Every file related to Ryujinx is stored in the `RyuFs` folder. Located in `C:\Us
 ## Latest build
 
 These builds are compiled automatically for each commit on the master branch, **and may be unstable or completely broken.**
-
-The latest automatic build for Windows, macOS, and Linux can be found on the [Official Website](https://ryujinx.org/#/Build).
 
 ## Requirements
 
@@ -81,22 +73,10 @@ The latest automatic build for Windows, macOS, and Linux can be found on the [Of
 
    The emulator has settings for dumping shaders, enabling or disabling some logging, remapping controllers, and more. You can configure all of them through the graphical interface or manually through the config file, `Config.json`.
 
-   For more information [you can go here](CONFIG.md) *(Outdated)*.
-
 ## Compatibility
 
 You can check out the compatibility list [here](https://github.com/Ryujinx/Ryujinx-Games-List/issues).
 
-Don't hesitate to open a new issue if a game isn't already on there.
-
 ## Help
 
 If you have homebrew that currently doesn't work within the emulator, you can contact us through our Discord with the .NRO/.NSO and source code, if possible. We'll take note of whatever is causing the app/game to not work, on the watch list and fix it at a later date.
-
-If you need help with setting up Ryujinx, you can ask questions in the support channel of our Discord server.
-
-## Contact
-
-If you have contributions, need support, have suggestions, or just want to get in touch with the team, join our [Discord server](https://discord.gg/N2FmfVc)!
-
-If you'd like to donate, please take a look at our [Patreon](https://www.patreon.com/ryujinx).
